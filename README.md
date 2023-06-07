@@ -2,6 +2,8 @@
 ## Trading bot marketplace: Access proven strategies via APIs. Connect trading platform, automate trades. Eliminates manual trading, enhances success potential.
 
 
+![image](https://github.com/Sinjeddepina/final_project_botmystock/assets/120531541/9aaab01a-cc5f-4d0e-9767-761fb7affd35)
+
 
 Imagine a marketplace specifically designed for trading bots. In this marketplace, you can subscribe to various trading strategies that have been proven to be successful. By utilizing APIs (Application Programming Interfaces), you gain access to these strategies and can automatically execute trades through the trading bots.
 
